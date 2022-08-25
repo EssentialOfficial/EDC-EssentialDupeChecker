@@ -5,7 +5,9 @@
 
 __Essential Dupe Checker checker is a 1.8.9 Minecraft Forge Mod for Hypixel Skyblock which adds a Dupe Checker to Skyblock.__
 
-**We are striving to aid the Hypixel Skyblock community by providing this mod which our Development Team have spent countless hours developing in order to make the future of Skyblock dupe free to reduce the amount of unnessecary profile wipes.**
+**We are striving to aid the Hypixel Skyblock community by providing this mod which our Development Team have spent countless hours developing in order to make the future of Skyblock dupe free to reduce the amount of unnessecary profile wipes.** 
+
+**Due to the recent influx of innocent Skyblock players getting wiped we have decided to release a litte earlier than anticipated.**
 
 **What does it do?**
 
