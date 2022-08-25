@@ -1,9 +1,9 @@
 # EDC-EssentialDupeChecker
 
 
-EssentialMods™ Hypixel Skyblock Dupe Checker
+**EssentialMods™ Hypixel Skyblock Dupe Checker**
 
-Essential Dupe Checker checker is a 1.8.9 Minecraft Forge Mod for Hypixel Skyblock which adds a Dupe Checker to Skyblock.
+__Essential Dupe Checker checker is a 1.8.9 Minecraft Forge Mod for Hypixel Skyblock which adds a Dupe Checker to Skyblock.__
 
 **What does it do?**
 
