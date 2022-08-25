@@ -1,4 +1,4 @@
-# EDC-EssentialDupeChecker
+# EDC-Essential Dupe Checker
 
 
 **EssentialMods™ Hypixel Skyblock Dupe Checker**
